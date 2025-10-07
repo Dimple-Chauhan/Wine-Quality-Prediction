@@ -1,17 +1,17 @@
-## ** 🍷 Wine Quality Prediction using Machine Learning **
+## 🍷 Wine Quality Prediction using Machine Learning 
 
-## **🧠 Project Overview**
+## 🧠 Project Overview
 
 The Wine Quality Prediction project aims to predict the quality of wine based on its chemical characteristics such as acidity, density, alcohol content, and more.
 This project demonstrates the application of machine learning in viticulture, showcasing how data-driven approaches can help in assessing wine quality efficiently.
 
-## ** 📊 Dataset Description **
+##  📊 Dataset Description 
 
 The dataset contains several physicochemical variables (inputs) and a sensory quality score (output variable).
 
  Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides, Free Sulfur Dioxide, Total Sulfur Dioxide, Density, pH, Sulphates, Alcohol, Type,	Quality	
 
-## ** ⚙️ Project Structure
+## ⚙️ Project Structure
 
 Wine Quality Prediction/
 │
@@ -21,7 +21,7 @@ Wine Quality Prediction/
 ├── app.py                   
 └── README.md                 
 
-## ** 🧩 Key Features
+##  🧩 Key Features
 
 1. Built three classifiers:
     ✅ Random Forest Classifier
@@ -36,7 +36,7 @@ Wine Quality Prediction/
 
 5. Integrated with Streamlit for interactive web-based predictions
 
-## ** 🧮 Libraries Used
+##  🧮 Libraries Used
 
 1. Pandas → For data manipulation
 
@@ -48,7 +48,7 @@ Wine Quality Prediction/
 
 5. Streamlit → For building the web app interface
 
-## ** 🚀 How to Run the Project
+##  🚀 How to Run the Project
 
 1️⃣ Clone the repository
     git clone https://github.com/<Dimple-Chauhan>/Wine-Quality-Prediction.git
@@ -68,7 +68,7 @@ Wine Quality Prediction/
     Click on Predict Quality 
     Get instant prediction of wine quality 🎯
 
-## ** 📈 Model Performance
+##  📈 Model Performance
 
 After applying hyperparameter tuning and cross-validation, the Random Forest model achieved the best performance with:
 
